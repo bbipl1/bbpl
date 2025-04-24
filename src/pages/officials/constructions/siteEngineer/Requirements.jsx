@@ -504,17 +504,6 @@ const RequirementForm = ({ user }) => {
               <option value="manpower">Manpower</option>
               <option value="motor rent">motor rent</option>
               <option value="room rent">room rent</option>
-              <option value="materials-10mm crushed stone">materials-10mm crushed stone</option>
-              <option value="materials-20mm crushed stone">materials-20mm crushed stone</option>
-              <option value="materials-steel">materials-steel</option>
-              <option value="materials-ply">materials-ply</option>
-              <option value="materials-button">materials-button</option>
-              <option value="materials-nails">materials-nails</option>
-              <option value="materials-winding wire">materials-winding wire</option>
-              <option value="materials-cover block">materials-cover block</option>
-              <option value="materials-mixture machine">materials-mixture machine</option>
-              <option value="materials-generator">materials-generator</option>
-              <option value="materials-electric gadgets">materials-electric gadgets</option>
               <option value="advance payment-labour">advance payment-labour</option>
               <option value="advance payment-labour-staff">advance payment-staff</option>
               {/* <option value="material">Material</option> */}
@@ -553,6 +542,17 @@ const RequirementForm = ({ user }) => {
               <option value="Concrete">Concrete </option>
               <option value="Paint">Paint</option>
               <option value="Gate">Gate</option>
+              <option value="materials-10mm crushed stone">materials-10mm crushed stone</option>
+              <option value="materials-20mm crushed stone">materials-20mm crushed stone</option>
+              <option value="materials-steel">materials-steel</option>
+              <option value="materials-ply">materials-ply</option>
+              <option value="materials-button">materials-button</option>
+              <option value="materials-nails">materials-nails</option>
+              <option value="materials-winding wire">materials-winding wire</option>
+              <option value="materials-cover block">materials-cover block</option>
+              <option value="materials-mixture machine">materials-mixture machine</option>
+              <option value="materials-generator">materials-generator</option>
+              <option value="materials-electric gadgets">materials-electric gadgets</option>
               <option value="others">Others</option>
             </select>
 
