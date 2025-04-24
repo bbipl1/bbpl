@@ -542,17 +542,17 @@ const RequirementForm = ({ user }) => {
               <option value="Concrete">Concrete </option>
               <option value="Paint">Paint</option>
               <option value="Gate">Gate</option>
-              <option value="materials-10mm crushed stone">materials-10mm crushed stone</option>
-              <option value="materials-20mm crushed stone">materials-20mm crushed stone</option>
-              <option value="materials-steel">materials-steel</option>
-              <option value="materials-ply">materials-ply</option>
-              <option value="materials-button">materials-button</option>
-              <option value="materials-nails">materials-nails</option>
-              <option value="materials-winding wire">materials-winding wire</option>
-              <option value="materials-cover block">materials-cover block</option>
-              <option value="materials-mixture machine">materials-mixture machine</option>
-              <option value="materials-generator">materials-generator</option>
-              <option value="materials-electric gadgets">materials-electric gadgets</option>
+              <option value="10mm crushed stone">10mm crushed stone</option>
+              <option value="20mm crushed stone">20mm crushed stone</option>
+              <option value="steel">steel</option>
+              <option value="ply">ply</option>
+              <option value="button">button</option>
+              <option value="nails">nails</option>
+              <option value="materials-winding wire">winding wire</option>
+              <option value="cover block">cover block</option>
+              <option value="mixture machine">mixture machine</option>
+              <option value="generator">generator</option>
+              <option value="electric gadgets">electric gadgets</option>
               <option value="others">Others</option>
             </select>
 
